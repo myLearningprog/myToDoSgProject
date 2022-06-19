@@ -11,4 +11,4 @@ STDOUT
 /src/Reports/PrettyReport/install/*.*
 .classpath
 /bin/
-/src/test/java/Drivers/*.exe
+/src/test/resources/Drivers/*.exe
