@@ -1,0 +1,14 @@
+/target/
+.settings
+.project
+STDOUT
+*.log
+/output
+/test-output
+/src/Reports/ExtendReports/*.html
+/src/Reports/JSONReport/*.json
+/src/Reports/ExtentReport/*.*
+/src/Reports/PrettyReport/install/*.*
+.classpath
+/bin/
+/src/test/java/Drivers/*.exe
